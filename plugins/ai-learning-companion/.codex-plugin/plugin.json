@@ -1,0 +1,20 @@
+{
+  "name": "ai-learning-companion",
+  "version": "0.2.0",
+  "description": "在 Codex 中诊断、教学和复习，在 Obsidian 中保存可追溯的学习记录与图示。",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI 学习助手",
+    "shortDescription": "目标驱动的教学、知识依赖图和 Obsidian 学习记录",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "使用 $teach 教我一个主题，先明确目标，再诊断和规划。"
+    ]
+  }
+}
