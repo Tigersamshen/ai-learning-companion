@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-learning-companion",
+  "version": "0.2.0",
+  "description": "在 Codex 中诊断、教学和复习，在 Obsidian 中保存可追溯的学习记录与图示。",
+  "license": "MIT"
+}
