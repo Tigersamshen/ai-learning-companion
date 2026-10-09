@@ -1,0 +1,29 @@
+# Personal runtime data must stay outside the distribution.
+/state/
+/学习笔记库/
+/Vault/
+/vault/
+/deployment.json
+**/.obsidian/
+
+# Local configuration and credentials.
+/config.json
+/config.local.json
+*.local.json
+.env
+.env.*
+/plugins/ai-learning-companion/config.local.json
+
+# Test output, verification evidence and release archives.
+/verification/
+/dist/
+/release-work/
+/logs/
+*.log
+
+# Python and macOS generated files.
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Keep source tests, scripts and bundled templates versioned.
