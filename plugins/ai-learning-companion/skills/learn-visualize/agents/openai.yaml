@@ -1,0 +1,3 @@
+interface:
+  display_name: "Learning Visuals"
+  short_description: "Create verified SVG and Mermaid learning diagrams"
