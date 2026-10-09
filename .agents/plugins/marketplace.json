@@ -1,0 +1,20 @@
+{
+  "name": "ai-learning-companion",
+  "interface": {
+    "displayName": "AI 学习助手"
+  },
+  "plugins": [
+    {
+      "name": "ai-learning-companion",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ai-learning-companion"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
